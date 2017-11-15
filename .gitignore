@@ -1,0 +1,6 @@
+debug/
+training_data/
+
+labels.p
+normalized_features.p
+scaler.p
